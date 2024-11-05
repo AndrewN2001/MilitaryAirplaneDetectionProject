@@ -25,6 +25,8 @@ pip install -r requirements.txt
 Data Preparation
 Extract the Dataset: Download and extract archive.zip in the data/ directory:
 
+Download from here: https://www.kaggle.com/datasets/a2015003713/militaryaircraftdetectiondataset
+
 ```bash
 unzip archive.zip -d MilitaryAirplaneDetectionProject/
 ```
