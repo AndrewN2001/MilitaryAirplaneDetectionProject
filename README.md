@@ -1,6 +1,7 @@
 # Military Aircraft Detection with CNN
 
 This project uses a Convolutional Neural Network (CNN) to detect military aircraft in images. The model is trained and evaluated on a dataset specifically created for aircraft detection, which contains labeled images of military aircraft and non-aircraft objects.
+![image](https://github.com/user-attachments/assets/a69206ae-bc93-42bb-907c-efc554a0722f)
 
 ## Project Overview
 
